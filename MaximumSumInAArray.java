@@ -1,4 +1,3 @@
-package programs;
 import java.util.Scanner;
 public class MaximumSumInAArray {
 	public static void main(String[] args) {
