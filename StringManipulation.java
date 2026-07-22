@@ -1,4 +1,4 @@
-//NOKIA DRIVE
+//NOKIA TEST Problem-1
 
 import java.util.Scanner;
 public class StringManipulation {
