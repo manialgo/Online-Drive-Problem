@@ -1,3 +1,5 @@
+//NOKIA DRIVE
+
 import java.util.Scanner;
 public class StringManipulation {
 	public static StringBuilder work(String str) {
