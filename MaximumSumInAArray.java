@@ -1,4 +1,4 @@
-//NOKIA DRIVE
+//NOKIA TEST Problem-3
 
 import java.util.Scanner;
 public class MaximumSumInAArray {
