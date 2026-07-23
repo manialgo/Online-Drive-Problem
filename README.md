@@ -9,7 +9,7 @@ The Problems are:
 On 22 July 2026 I had an opprtunity to attend the first coding test by WIPRO here the problems for reference.
 The Problems are:
   - PrimePosSum.java
-  - 
+  - MaxAndMinSumThreeNo.java
   
 Upon my imagination/brute force approach here the problems are solve in optimized way. I worked out in the evening and developed the code and updated this repo. This repository is created and maintained by [Manikandan M](https://github.com/manialgo).  
   
